@@ -20,9 +20,9 @@ Honda Titan
 
 ```
 
-##Requisitos
+## Requisitos
 
-###La solución debe cumplir con los siguientes requisitos:
+### La solución debe cumplir con los siguientes requisitos:
 
 *Estar programada en Java o Javascript según tu lenguaje de preferencia.
 *Subir la solución a un repositorio Git público para que podamos descargar la solución directamente.
@@ -32,11 +32,11 @@ Honda Titan
 *Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún tipo.
 *El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
 
-##Diagrama de clases
+## Diagrama de clases
 
 [Aquí](https://gitmind.com/app/flowchart/9be1398471) podrás ver el diagrama de clases
 
-##Instrucciones
+## Instrucciones
 
 1. Clonar repositorio
 2. Necesitarás tener NPM y Node.Js en tu ordenador
