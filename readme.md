@@ -21,7 +21,9 @@ Honda Titan
 ```
 
 ##Requisitos
+
 ###La solución debe cumplir con los siguientes requisitos:
+
 *Estar programada en Java o Javascript según tu lenguaje de preferencia.
 *Subir la solución a un repositorio Git público para que podamos descargar la solución directamente.
 *Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
@@ -31,9 +33,11 @@ Honda Titan
 *El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
 
 ##Diagrama de clases
+
 [Aquí](https://gitmind.com/app/flowchart/9be1398471) podrás ver el diagrama de clases
 
 ##Instrucciones
+
 1. Clonar repositorio
 2. Necesitarás tener NPM y Node.Js en tu ordenador
 3. En la terminar ingresar el comando `npm run start`
